@@ -1,3 +1,5 @@
 venv/
 logs/
 Miniproject_CIRCLECI.egg-info/
+gcp-key.json
+
