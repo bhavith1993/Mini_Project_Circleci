@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+flask
+joblib
+matplotlib
+seaborn
+setuptools
+mlflow
+kfp
+setuptools
